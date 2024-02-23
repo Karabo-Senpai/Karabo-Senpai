@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karabo-Senpai
-- 👀 I’m interested in coding, gaming and well anime
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on any peoject i can hoan my skills on ...
+- 👀 I’m interested in coding, gaming, and well anime
+- 🌱 I am a qualified software developer
+- 💞️ I’m looking to collaborate on any project I can hone my skills on ...
 - 📫 How to reach me karabomere47@gmail.com ...
 
 <!---
