@@ -30,5 +30,3 @@ Mobile Java app using Mapbox for landmark navigation.
 
 ---
 
-## 📈 GitHub Stats
-![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Senpai&show_icons=true&theme=radical)
