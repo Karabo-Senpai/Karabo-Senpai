@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Karabo-Senpai
-- 👀 I’m interested in coding, gaming, and well anime
-- 🌱 I am a qualified software developer
-- 💞️ I’m looking to collaborate on any project I can hone my skills on ...
-- 📫 How to reach me karabomere47@gmail.com ...
+# 👋 Hi there, I'm Karabo Mere
 
-<!---
-Karabo-Senpai/Karabo-Senpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Diploma in Information Technology (Software Development) with Distinction  
+💻 Passionate about solving real-world problems through code  
+🌱 Actively learning cloud computing, web dev, and cybersecurity  
+📫 Email: karaboshiburi@icloud.com  
+🎓 AWS Certified: https://cp.certmetrics.com/amazon/en/public/verify/credential/eef39cacaa164b2f93f49311c14618b0 | Currently persuing a COMPTIA Security+ Cert
+🔗 LinkedIn: [https://www.linkedin.com/in/karabo-mere](https://www.linkedin.com/in/karabo-dev/)  
+🌍 Portfolio: https://github.com/Karabo-Senpai
+
+---
+
+## 🛠️ Skills
+- **Languages**: C#, Java, JavaScript, Python  
+- **Frameworks**: ASP.NET Core, Spring, React   
+- **Tools & DBs**: SQL Server, Firebase, Git, Azure DevOps, MongoDB, PostgreSQL
+
+---
+
+## 💼 Projects
+
+### 📌 [Disaster Alleviation System](https://github.com/Karabo-Senpai/DisasterAlleviation)
+Web-based system for managing donations and allocating resources during disasters.
+
+### 📌 [Newlook Beauty Booking App](https://github.com/Karabo-Senpai/NewLookBooking)
+Appointment system for beauty salons with Firebase and JavaFX.
+
+### 📌 [LandGo! Navigation App](https://github.com/Karabo-Senpai/LandGo)
+Mobile Java app using Mapbox for landmark navigation.
+
+---
+
+## 📈 GitHub Stats
+![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Senpai&show_icons=true&theme=radical)
