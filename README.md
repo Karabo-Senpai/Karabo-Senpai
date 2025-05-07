@@ -1,12 +1,19 @@
 # 👋 Hi there, I'm Karabo Mere
 
-🎓 Diploma in Information Technology (Software Development) with Distinction  
+🎓 Diploma in Information Technology (Software Development) with Distinction 
+ 
 💻 Passionate about solving real-world problems through code  
-🌱 Actively learning cloud computing, web dev, and cybersecurity  
+
+🌱 Actively learning cloud computing, web dev, and cybersecurity 
+ 
 📫 Email: karaboshiburi@icloud.com  
+
 🏅 AWS Certified:[Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/eef39cacaa164b2f93f49311c14618b0)
-📜 Currently pursuing a COMPTIA Security+ Cert 
+
+📜 Currently pursuing a COMPTIA Security+ Cert
+ 
 🔗 LinkedIn: [https://www.linkedin.com/in/karabo-mere](https://www.linkedin.com/in/karabo-dev/)  
+
 🌍 Portfolio: https://github.com/Karabo-Senpai
 
 ---
