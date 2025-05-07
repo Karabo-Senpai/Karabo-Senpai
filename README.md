@@ -4,7 +4,8 @@
 💻 Passionate about solving real-world problems through code  
 🌱 Actively learning cloud computing, web dev, and cybersecurity  
 📫 Email: karaboshiburi@icloud.com  
-🎓 AWS Certified: https://cp.certmetrics.com/amazon/en/public/verify/credential/eef39cacaa164b2f93f49311c14618b0 | Currently persuing a COMPTIA Security+ Cert
+🏅 AWS Certified:[Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/eef39cacaa164b2f93f49311c14618b0)
+📜 Currently pursuing a COMPTIA Security+ Cert 
 🔗 LinkedIn: [https://www.linkedin.com/in/karabo-mere](https://www.linkedin.com/in/karabo-dev/)  
 🌍 Portfolio: https://github.com/Karabo-Senpai
 
@@ -30,3 +31,10 @@ Mobile Java app using Mapbox for landmark navigation.
 
 ---
 
+## 📈 GitHub Stats
+![Karabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karabo-Senpai&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karabo-Senpai&layout=compact&theme=radical)
