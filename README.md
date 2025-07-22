@@ -10,7 +10,9 @@
 
 🏅 AWS Certified:[Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/eef39cacaa164b2f93f49311c14618b0)
 
-📜 Currently pursuing a COMPTIA Security+ Cert
+🏅 CimpTIA Security+ Certified:[Verify Credential](https://www.credly.com/earner/earned/badge/15f44d2b-5da3-4d21-8f70-194d73868a19)
+
+📜 Currently pursuing a COMPTIA CYSA+ Cert
  
 🔗 LinkedIn: [https://www.linkedin.com/in/karabo-mere](https://www.linkedin.com/in/karabo-dev/)  
 
